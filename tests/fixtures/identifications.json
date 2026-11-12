@@ -1,0 +1,60 @@
+{
+  "adept": {
+    "tcgplayer_id": 900000003,
+    "confidence": 0.95,
+    "product_line": "Riftbound",
+    "set_name": "Fixture Set",
+    "product_name": "Fixture Adept",
+    "number": "002",
+    "rarity": "Common",
+    "printing": "Standard",
+    "foil": false
+  },
+  "uncertain": {
+    "tcgplayer_id": 900000002,
+    "confidence": 0.63,
+    "product_line": "Riftbound",
+    "set_name": "Fixture Set",
+    "product_name": "Fixture Vanguard",
+    "number": "001",
+    "rarity": "Rare",
+    "printing": "Standard",
+    "foil": true
+  },
+  "unmatched": {
+    "confidence": 0.40
+  },
+  "unpriced": {
+    "tcgplayer_id": 900000004,
+    "confidence": 0.92,
+    "product_line": "Riftbound",
+    "set_name": "Fixture Set",
+    "product_name": "Fixture Scout",
+    "number": "003",
+    "rarity": "Common",
+    "printing": "Standard",
+    "foil": false
+  },
+  "vanguard": {
+    "tcgplayer_id": 900000001,
+    "confidence": 0.98,
+    "product_line": "Riftbound",
+    "set_name": "Fixture Set",
+    "product_name": "Fixture Vanguard",
+    "number": "001",
+    "rarity": "Rare",
+    "printing": "Standard",
+    "foil": false
+  },
+  "vanguard-foil": {
+    "tcgplayer_id": 900000002,
+    "confidence": 0.85,
+    "product_line": "Riftbound",
+    "set_name": "Fixture Set",
+    "product_name": "Fixture Vanguard",
+    "number": "001",
+    "rarity": "Rare",
+    "printing": "Standard",
+    "foil": true
+  }
+}

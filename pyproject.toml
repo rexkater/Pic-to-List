@@ -1,0 +1,11 @@
+[project]
+name = "pic-to-list"
+version = "0.1.0"
+description = "Turn trading-card photos into a TCGplayer inventory CSV and review queue."
+requires-python = ">=3.12"
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
